@@ -23,7 +23,7 @@ Bạn có thể lựa chọn môi trường chạy theo nhu cầu:
 ## 📂 Prepare data  
 - Dữ liệu dạng **PDF** được đặt tại folder:  ```./pdf_data/```
 
-# 🚀 Init môi trường
+# Init môi trường
 
 ```bash
 # Tạo virtual env
@@ -33,7 +33,7 @@ python3 -m venv env_chat
 source env_chat/bin/activate
 ```
 
-# 🚀 Run chương tình
+# Run chương tình
 
 ```bash
 # Khởi tạo DB vector(Milvus):
